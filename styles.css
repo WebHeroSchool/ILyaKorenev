@@ -21,10 +21,10 @@
   display: flex;
   align-items: center;
 }
-.menu_item{
+.menu__item{
   padding: 0 13px;
 }
 
-.menu_item:last-child{
+.menu__item:last-child{
   padding-right: 0;
 }
